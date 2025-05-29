@@ -14,3 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there, I'm Arief G 👋
+
+## 🚀 About Me
+I'm a passionate Backend and Software Engineer specializing in building scalable and efficient web applications. I thrive on tackling complex problems and enjoy working with technologies like Laravel and Spring Boot. My goal is to [Sebutkan tujuan Anda, misal: contribute to innovative open-source projects / build solutions that make a difference].
+
+Fun fact: I'm a Colemak keyboard enthusiast!
+
+## 🛠️ My Tech Stack
+* **Languages:** PHP, Java, Python, JavaScript
+* **Frameworks/Libraries:** Laravel, Spring Boot, [Tambahkan lainnya]
+* **Databases:** MySQL, PostgreSQL, [Tambahkan lainnya]
+* **Tools:** Git, Docker, [Tambahkan lainnya]
+
+## 📈 My GitHub Stats
+[![Arief's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariefgraham&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariefgraham&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📫 How to Reach Me
+* Email: ariefgraham@gmail.com
+* LinkedIn: [Link ke LinkedIn Anda jika ada]
+* Portfolio: [Link ke Portofolio Anda jika ada]
+
+## ✨ My Pinned Projects
