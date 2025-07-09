@@ -35,4 +35,4 @@ I'm a passionate Backend and Software Engineer specializing in building scalable
 * Email: ariefgrahan@gmail.com
 * LinkedIn: [Arief Graifhan](https://www.linkedin.com/in/arief-graifhan/)
 
-## ✨ My Pinned Projects ⬇️⬇️
+<!-- ## ✨ My Pinned Projects ⬇️⬇️-->
